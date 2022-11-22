@@ -1,6 +1,6 @@
 <h1>REGLAS PARA EL DOCUMENTO HTML</h1>
 
-1. Regla 1. La fuente del documento tiene que ser la letra Roboto de fontawesome.
+1. Regla 1. La fuente del documento tiene que ser la letra Roboto de Google fonts.
 
 2. Regla 2. El elemento body tendrá margen 0 y relleno de 15% a la derecha e izquierda.
 
